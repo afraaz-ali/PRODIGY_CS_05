@@ -1,0 +1,24 @@
+This project is a Network Packet Analyzer tool built using Python and the Scapy library. 
+The tool captures and analyzes real-time network traffic by inspecting various network packet layers.
+It extracts key information such as source and destination IP addresses, protocol types (TCP, UDP, ICMP), and displays a portion of the packet payload.
+
+The program works on cross-platform environments, including Windows and Linux, and provides 
+a foundational understanding of how data packets travel across a network. This is useful 
+for monitoring, analyzing, and debugging network issues in real time.
+
+Educational Purpose:
+The primary purpose of this program is to serve as a learning tool for students and network enthusiasts to:
+
+Understand the basics of networking protocols and packet structures.
+
+Learn how to capture and inspect network traffic.
+Gain insight into how data is transmitted and received over different protocols like TCP, UDP, and ICMP.
+
+The tool also helps in understanding cybersecurity concepts such as traffic analysis, packet filtering, 
+and identifying potential vulnerabilities in network communication. It is intended solely for educational purposes and network monitoring in controlled environments.
+
+
+
+
+
+
